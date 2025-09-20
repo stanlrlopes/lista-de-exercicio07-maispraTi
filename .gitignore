@@ -1,0 +1,62 @@
+# ===================================================================
+# Arquivos de Configuração de IDEs
+# ===================================================================
+
+### IntelliJ IDEA ###
+# Configurações pessoais do projeto, histórico local, etc. Não deve ser compartilhado.
+.idea/
+# Arquivos de módulo específicos do IntelliJ.
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+
+# ===================================================================
+# Pastas e Arquivos de Build e Pacotes
+# ===================================================================
+
+# Saída de compilação de IDEs genéricas
+out/
+bin/
+
+# Saída de ferramentas de build como Maven e Gradle
+target/
+build/
+
+# Arquivos de pacotes gerados (jars, wars, etc.)
+*.jar
+*.war
+*.ear
+
+
+# ===================================================================
+# Arquivos Gerais a serem Ignorados
+# ===================================================================
+
+# Logs
+*.log
+*.log.*
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
